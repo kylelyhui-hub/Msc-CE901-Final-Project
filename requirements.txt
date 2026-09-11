@@ -1,0 +1,5 @@
+opencv-python==4.14.0.94
+numpy
+requests
+tensorflow==2.20.0
+pandas
