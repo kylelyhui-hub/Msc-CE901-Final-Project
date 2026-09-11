@@ -1,2 +1,4 @@
 # Msc-CE901-Final-Project
 This project proposes the development of a multimodal AI system for real‑time driver emotion regulation, integrating affective computing, behavior prediction, and adaptive intervention models into a unified framework. 
+
+The system will utilise the AffectiveROAD dataset, which provides synchronised facial video, physiological signals (electrocardiogram, electrodermal activity, and respiration), vehicle telemetry (speed, steering, braking), and labelled emotional states collected in real driving scenarios. These modalities will be processed through deep learning architectures—such as convolutional neural networks, temporal models, and attention‑based fusion—to detect emotional states and predict behavioural risk. Building upon these predictions, an adaptive intervention engine will employ reinforcement learning to deliver personalised feedback and regulate driver emotions dynamically.
